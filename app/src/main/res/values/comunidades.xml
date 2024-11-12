@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="comunidades">
+        <array name="Castilla y León">
+            <item></item>
+            <item></item>
+            <item></item>
+            <item></item>
+            <item></item>
+        </array>
+        <array name="Castilla la Mancha">
+            <item></item>
+            <item></item>
+            <item></item>
+            <item></item>
+        </array>
+    </array>
+</resources>
